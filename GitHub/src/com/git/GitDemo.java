@@ -10,5 +10,10 @@ public class GitDemo {
 	{
 		System.out.println("Pull from Github");
 	}
+	
+	static public void branch()
+	{
+		System.out.println("Branch");
+	}
 
 }
