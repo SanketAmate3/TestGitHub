@@ -15,5 +15,10 @@ public class GitDemo {
 	{
 		System.out.println("Branch");
 	}
+	
+	static public void branchtoclone()
+	{
+		System.out.println("Branch clone");
+	}
 
 }
